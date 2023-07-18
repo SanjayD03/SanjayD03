@@ -1,7 +1,7 @@
 ![logo](https://github.com/SanjayD03/SanjayD03/blob/main/Background%20Image.png)
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
 <h3 align="center">Data Alchemist: Transforming Raw Information into Actionable Insights</h3>
-<img align="right" alt="Data Analysis" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExendqem8yMmZxZzl5bGM0NDZwM25rNDF3YW9qbWhnMTV3cXZ1OGJ2MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif">
+<img align="right" alt="Data Analysis" width="400" src="https://media.licdn.com/dms/image/D4D22AQHy2SYBzIYBEQ/feedshare-shrink_2048_1536/0/1689649574948?e=1692835200&v=beta&t=XR1-7Dkl3Bw3DTxYIEK1wtnjzDQzhqAx2VgEABjzhng">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayd03&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayd03" /> </p>
 
 - 💬 Ask me about **MySQL, Power Bi, Python, Advanced Excel, Tableau**
