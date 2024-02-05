@@ -4,7 +4,7 @@
 <img align="right" alt="Data Analysis" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*HbnbnrMJurULEZ2B.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayd03&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayd03" /> </p>
 
-- 💬 Ask me about **MySQL, Power Bi, Python, Advanced Excel, Tableau**
+- 💬 Ask me about **MySQL,SQl Server, Postgresql, Power Bi, Python, Advanced Excel, Tableau**
 
 - 📫 How to reach me **sanjaydivate12@gmail.com**
  
